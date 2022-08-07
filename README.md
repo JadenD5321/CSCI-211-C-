@@ -1,1 +1,1 @@
-Algorthimitc Problem Solving in C++
+Algorithmtic problem solving C++
